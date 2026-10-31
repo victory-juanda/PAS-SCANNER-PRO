@@ -1,2 +1,0 @@
-# PAS-SCANNER-PRO
-Web
